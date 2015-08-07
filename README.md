@@ -5,7 +5,7 @@ This is especially useful if you are publishing a post, and would like to track 
 without constantly searching for it.
 
 ## Installation
-You can install the Chrome extention, by downloading it from the [Chrome Web Store]().
+You can install the Chrome extention, by downloading it from the [Chrome Web Store](https://chrome.google.com/webstore/detail/hn-status/edmbgdfejjdikhaniepceopkchejaghp).
 
 ## Usage
 Access a post page, for example by clicking on the comment(s) number (or "discuss") link, under a post name, from [HN homepage](http://news.ycombinator.com)
