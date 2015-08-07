@@ -12,6 +12,8 @@ Access a post page, for example by clicking on the comment(s) number (or "discus
 
 ![access post page](screenshots/access_post_page.png)
 
+(date, or direct link work as well).
+
 When on a Hacker News post page (e.g. https://news.ycombinator.com/item?id=10014045),
 a new "show status" link will be added.
 
