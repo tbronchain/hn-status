@@ -25,7 +25,9 @@ If the post is no longer on HN homepage, "absent" will be displayed
 
 ![show absent](screenshots/show_absent.png)
 
-That's all!
+To update the current position, simply reclick on the "home position" link.
+
+That's All Folks!
 
 ## Issues
 If you encounter any issue using this extension, don't hesitate to create a Github issue [here](https://github.com/tbronchain/hn-status/issues).
@@ -34,4 +36,4 @@ If you encounter any issue using this extension, don't hesitate to create a Gith
 [Pull Requests](https://github.com/tbronchain/hn-status/pulls) are much welcome :)
 
 ## License
-Copyright (c) 2015 [Thibault Bronchain](http://bronchain.me]
+Copyright (c) 2015 [Thibault Bronchain](http://bronchain.me)
